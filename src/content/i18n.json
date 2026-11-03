@@ -1,0 +1,1090 @@
+{
+  "nav.services": {
+    "ar": "خدماتنا",
+    "en": "Services"
+  },
+  "nav.story": {
+    "ar": "القصة",
+    "en": "The story"
+  },
+  "nav.contact": {
+    "ar": "تواصل معنا",
+    "en": "Contact"
+  },
+  "nav.home": {
+    "ar": "الرئيسية",
+    "en": "Home"
+  },
+  "nav.how": {
+    "ar": "كيف نبني",
+    "en": "How we build"
+  },
+  "nav.menu": {
+    "ar": "القائمة",
+    "en": "Menu"
+  },
+  "nav.close": {
+    "ar": "إغلاق",
+    "en": "Close"
+  },
+  "lang.switch": {
+    "ar": "English",
+    "en": "عربي"
+  },
+  "lang.aria": {
+    "ar": "التبديل إلى العربية",
+    "en": "التبديل إلى العربية"
+  },
+  "skip": {
+    "ar": "انتقل إلى المحتوى",
+    "en": "Skip to content"
+  },
+  "hero.l1": {
+    "ar": "مو بس فكرة حلوة.",
+    "en": "Not just a nice idea."
+  },
+  "hero.lede": {
+    "ar": "من الاستراتيجية للتنفيذ، نشتغل وياك حتى نحقق نمو حقيقي لعملك.",
+    "en": "From strategy to execution, we work with you until your business really grows."
+  },
+  "hero.fine": {
+    "ar": "بالخط الصغير: نتفق على الرقم في اليوم الأول، ونقيسه في اليوم التسعين.",
+    "en": "Fine print: the number is agreed on day one and measured on day ninety."
+  },
+  "hero.how1b": {
+    "ar": "اضغط مطوّلاً",
+    "en": "Press and hold"
+  },
+  "hero.how1": {
+    "ar": "في أي مكان لترى كيف بُني هذا القسم.",
+    "en": "anywhere to see how a section is built."
+  },
+  "hero.how2b": {
+    "ar": "ثلاثة عشر شيئاً",
+    "en": "Thirteen things"
+  },
+  "hero.how2": {
+    "ar": "مخبّأة في الصفحة. خمسة منها تكوّن كلمة.",
+    "en": "are hidden. Five of them spell a word."
+  },
+  "hero.howaria": {
+    "ar": "كيف تستكشف هذا الموقع",
+    "en": "How to explore this site"
+  },
+  "xray.dim": {
+    "ar": "12 عموداً · فاصل 24 · هامش 48",
+    "en": "12 columns · gutter 24 · margin 48"
+  },
+  "xray.h1": {
+    "ar": "العنوان: IBM Plex Sans Arabic 600، ارتفاع السطر 1.08 · العلامة: هدف أوبا، حلقة 1:3",
+    "en": "H1: Archivo 600, wdth 100, tracking −3.5%, leading 0.94 · mark: Oppa target, 1:3 ring"
+  },
+  "xray.lines": {
+    "ar": "سطران: الفكرة فوق، والأثر تحت",
+    "en": "two lines: the idea above, the impact below"
+  },
+  "xray.note": {
+    "ar": "ملاحظة: الشبكة هي الهوية، وكل ما عداها تفاصيل.",
+    "en": "note: the grid is the brand. everything else is paint."
+  },
+  "xray.lede": {
+    "ar": "المقدمة: 34 حرفاً كحد أقصى · ارتفاع سطر 1.35",
+    "en": "lede: 34ch max · 1.35 leading"
+  },
+  "xray.hint.hero": {
+    "ar": "أشعة · الواجهة / 01",
+    "en": "x-ray · hero / 01"
+  },
+  "xray.footer.coords": {
+    "ar": "33.3152° شمالاً، 44.3661° شرقاً. المكتب مكان حقيقي",
+    "en": "33.3152° N, 44.3661° E. The office is a real place"
+  },
+  "xray.footer.rule": {
+    "ar": "حلقات التذييل: 640px، تبدأ 200px خارج اللوحة",
+    "en": "footer rings: 640px, starting 200px off-canvas"
+  },
+  "xray.hint.footer": {
+    "ar": "أشعة · التذييل / 06",
+    "en": "x-ray · footer / 06"
+  },
+  "svc.title": {
+    "ar": "ثلاث خدمات، ونتيجة واحدة: نمو تقيسه بالأرقام",
+    "en": "Three services. One result: growth you can measure"
+  },
+  "svc.lede": {
+    "ar": "تسويق، واستراتيجية، وتدريب. كل خدمة تبدأ برقم تختاره أنت، وتنتهي برقم تراه بعد 90 يوماً.",
+    "en": "Marketing, strategy and training. Each one starts with a number you choose and ends with a number you can see after 90 days."
+  },
+  "svc.toggle": {
+    "ar": "ماذا يتغيّر",
+    "en": "What changes"
+  },
+  "svc.more": {
+    "ar": "اقرأ المزيد عن هذا",
+    "en": "Read more about this"
+  },
+  "svc1.title": {
+    "ar": "زبائن أكثر، كل شهر",
+    "en": "More customers, every month"
+  },
+  "svc1.short": {
+    "ar": "زبائن يجدونك ويختارونك ويرجعون إليك، لأن كل خطوة من أول نظرة حتى الطلب الثاني بيد فريق واحد، ونقيسها بالأرقام التي تحددها أنت.",
+    "en": "Buyers who find you, choose you and come back, because every step from first glance to repeat order is in one team's hands, and measured against the numbers you set."
+  },
+  "svc1.i1": {
+    "ar": "زبائن جدد باستمرار من القنوات التي يستخدمها زبائنك فعلاً",
+    "en": "A steady flow of new customers from the channels your buyers actually use"
+  },
+  "svc1.i2": {
+    "ar": "شراكات وتوزيع تجلب لك عملاً لم تلاحقه بنفسك",
+    "en": "Partnerships and distribution that bring business you did not have to chase"
+  },
+  "svc1.i3": {
+    "ar": "طلبات متكررة أكثر، لأننا نشتغل على كل لحظة في رحلة الزبون",
+    "en": "Repeat orders that rise because every moment of the customer story is worked"
+  },
+  "svc1.i4": {
+    "ar": "رقم واحد كل أسبوع تقرأه في دقيقة",
+    "en": "One weekly number you can read in a minute"
+  },
+  "svc2.title": {
+    "ar": "خطة تغطي تكلفتها في نفس الربع",
+    "en": "A plan that pays for itself within the quarter"
+  },
+  "svc2.short": {
+    "ar": "نمو تعتمد عليه: أهداف مكتوبة قبل اليوم الأول، ومحققة في اليوم التسعين، وفريقك ما زال مركّزاً على المنتج.",
+    "en": "Growth you can bank on: targets written down before day one and reached by day ninety, while your team keeps its eyes on the product."
+  },
+  "svc2.i1": {
+    "ar": "أهداف واضحة ومؤرّخة وموقّعة من الطرفين",
+    "en": "Targets that are specific, dated and signed by both sides"
+  },
+  "svc2.i2": {
+    "ar": "قرارات هذا الأسبوع، لا ملف استراتيجية الشهر الجاي",
+    "en": "Decisions this week, not a strategy document next month"
+  },
+  "svc2.i3": {
+    "ar": "أبواب تنفتح عبر الشركاء والعلاقات الصحيحة",
+    "en": "Doors opened through the right partners and contacts"
+  },
+  "svc2.i4": {
+    "ar": "فريقك على المنتج وفريقنا على الزبون، لا تداخل ولا فراغات",
+    "en": "Your team on the product, ours on the customer. No overlap, no gaps"
+  },
+  "svc3.title": {
+    "ar": "فريق يستمر في النمو من دوننا",
+    "en": "A team that keeps growing without us"
+  },
+  "svc3.short": {
+    "ar": "موظفون يبيعون بثقة، ويخدمون الزبون من دون تصعيد، ويقرؤون أرقامهم بأنفسهم، ليستمر النمو بعد أن نغادر.",
+    "en": "People who sell with confidence, serve without escalations and read their own numbers, so the growth holds after we leave."
+  },
+  "svc3.i1": {
+    "ar": "مندوبو مبيعات يغلقون صفقات أكثر، مدرّبون على زبائنك الحقيقيين",
+    "en": "Salespeople who close more, trained on your real customers"
+  },
+  "svc3.i2": {
+    "ar": "خدمة تحل المشكلة من أول تواصل",
+    "en": "Service that resolves things on first contact"
+  },
+  "svc3.i3": {
+    "ar": "فريق تسويق يدير حساباته بنفسه",
+    "en": "A marketing team that runs its own accounts"
+  },
+  "svc3.i4": {
+    "ar": "معرفة تبقى في الشركة حتى لو تغيّر الناس",
+    "en": "Know-how that stays when people move on"
+  },
+  "con.title": {
+    "ar": "من خطّ إلى تجربة",
+    "en": "From a Line to an Experience"
+  },
+  "con.foot": {
+    "ar": "مرّر للأسفل لتبني فكرتك، وللأعلى لتفكّها.",
+    "en": "Scroll down to build your idea. Scroll up to take it apart."
+  },
+  "con.cta": {
+    "ar": "ابدأ أيامك التسعين",
+    "en": "Start your 90 days"
+  },
+  "con.h1a": {
+    "ar": "من الفكرة",
+    "en": "Ideas"
+  },
+  "con.h1b": {
+    "ar": "إلى الأثر.",
+    "en": "Into Impact."
+  },
+  "con.s1": {
+    "ar": "خط",
+    "en": "line"
+  },
+  "con.s2": {
+    "ar": "شبكة",
+    "en": "grid"
+  },
+  "con.s3": {
+    "ar": "تخطيط",
+    "en": "layout"
+  },
+  "con.s4": {
+    "ar": "خط الكتابة",
+    "en": "type"
+  },
+  "con.s5": {
+    "ar": "اللون",
+    "en": "accent"
+  },
+  "con.s6": {
+    "ar": "كود",
+    "en": "code"
+  },
+  "con.s7": {
+    "ar": "مكوّنات",
+    "en": "components"
+  },
+  "con.s8": {
+    "ar": "زر",
+    "en": "button"
+  },
+  "story.title1": {
+    "ar": "الزبون لا يرى أقساماً.",
+    "en": "The customer doesn’t experience departments."
+  },
+  "story.title2": {
+    "ar": "الزبون يعيش قصة.",
+    "en": "They experience a story."
+  },
+  "story.lede": {
+    "ar": "الزبائن يترددون ويغادرون ويرجعون في لحظات محددة. نرسمها كقصة واحدة من خمس عشرة لحظة، من أول حاجة حتى الولاء أو التوصية أو المغادرة. اختر لحظة.",
+    "en": "Customers hesitate, leave and come back at specific moments. We map them as one story in fifteen moments, from the first need to loyalty, advocacy or departure. Pick a moment."
+  },
+  "story.aria": {
+    "ar": "اللحظات الخمس عشرة",
+    "en": "The fifteen moments"
+  },
+  "story.q1": {
+    "ar": "ماذا يشعر به الزبون؟",
+    "en": "What is the customer experiencing?"
+  },
+  "story.q2": {
+    "ar": "لماذا هذا مهم؟",
+    "en": "Why does it matter?"
+  },
+  "story.q3": {
+    "ar": "كيف نحسّنها؟",
+    "en": "What can we do better?"
+  },
+  "split.who1": {
+    "ar": "فريقك",
+    "en": "Your internal team"
+  },
+  "split.t1": {
+    "ar": "ما تبنيه",
+    "en": "What you build"
+  },
+  "split.d1": {
+    "ar": "المنتج والخدمة والأولويات التي لا يستطيع أحد غيرك أن يتولاها.",
+    "en": "The product, the service and the priorities nobody else can own."
+  },
+  "split.who2": {
+    "ar": "أوبا",
+    "en": "Oppa"
+  },
+  "split.t2": {
+    "ar": "زبائن يشترون ويرجعون ويجلبون غيرهم",
+    "en": "Customers who buy, come back and bring others"
+  },
+  "split.d2": {
+    "ar": "كل نقطة تواصل، للشركات والأفراد، وفريقك مدرّب ليبقيها مستمرة.",
+    "en": "Every touchpoint, B2B and B2C, and your team trained to keep it going."
+  },
+  "m1.t": {
+    "ar": "تظهر الحاجة",
+    "en": "The need emerges"
+  },
+  "m1.a1": {
+    "ar": "مشكلة أو رغبة، غالباً قبل أن يظهر أي اسم تجاري.",
+    "en": "A problem or a wish, usually before any brand is in view."
+  },
+  "m1.a2": {
+    "ar": "الطلب يبدأ هنا، قبل أي حملة بوقت طويل.",
+    "en": "Demand starts here, long before a campaign."
+  },
+  "m1.a3": {
+    "ar": "كن موجوداً حيث يُقال الاحتياج لأول مرة.",
+    "en": "Be present where the need is first put into words."
+  },
+  "m2.t": {
+    "ar": "أول مرة يسمع عنك",
+    "en": "First brand exposure"
+  },
+  "m2.a1": {
+    "ar": "اسم، منشور، أو توصية عابرة.",
+    "en": "A name, a post, a recommendation in passing."
+  },
+  "m2.a2": {
+    "ar": "الانطباع الأول يحدد ثمن كل خطوة بعده.",
+    "en": "First impressions set the price of every later touch."
+  },
+  "m2.a3": {
+    "ar": "وعد واحد واضح، بنفس الكلمات في كل مكان.",
+    "en": "One clear promise, repeated in the same words everywhere."
+  },
+  "m3.t": {
+    "ar": "أول فضول",
+    "en": "Initial curiosity"
+  },
+  "m3.a1": {
+    "ar": "نظرة على الحساب، تمرير سريع، سؤال لصديق.",
+    "en": "A look at the profile, a scroll, a question to a friend."
+  },
+  "m3.a2": {
+    "ar": "الفضول يضيع بسهولة ويصعب استرجاعه.",
+    "en": "Curiosity is cheap to lose and expensive to rebuild."
+  },
+  "m3.a3": {
+    "ar": "اجعل الخطوة التالية واضحة وصغيرة.",
+    "en": "Make the next step obvious and small."
+  },
+  "m4.t": {
+    "ar": "البحث والمقارنة",
+    "en": "Research and discovery"
+  },
+  "m4.a1": {
+    "ar": "تقييمات، أسعار، صور، والموقع في منتصف الليل.",
+    "en": "Reviews, prices, pictures, the website at midnight."
+  },
+  "m4.a2": {
+    "ar": "هنا يقرر أغلب الزبائن، بهدوء.",
+    "en": "This is where most buyers decide, quietly."
+  },
+  "m4.a3": {
+    "ar": "أجب عن الأسئلة الحقيقية قبل أن تُسأل.",
+    "en": "Answer the real questions before they are asked."
+  },
+  "m5.t": {
+    "ar": "مقارنة الخيارات",
+    "en": "Comparing alternatives"
+  },
+  "m5.a1": {
+    "ar": "خياران أو ثلاثة جنباً إلى جنب.",
+    "en": "Two or three options side by side."
+  },
+  "m5.a2": {
+    "ar": "الفرق الذي لا يُرى غير موجود.",
+    "en": "Differences that are not visible do not exist."
+  },
+  "m5.a3": {
+    "ar": "قل بوضوح ما تفعله أنت ولا يفعله غيرك.",
+    "en": "Say plainly what you do that the others do not."
+  },
+  "m6.t": {
+    "ar": "أول تواصل مباشر",
+    "en": "First direct interaction"
+  },
+  "m6.a1": {
+    "ar": "رسالة، اتصال، زيارة، ووقت الرد.",
+    "en": "A message, a call, a visit, a reply time."
+  },
+  "m6.a2": {
+    "ar": "أول تواصل بشري يؤكد الوعد أو يكسره.",
+    "en": "The first human contact confirms or breaks the promise."
+  },
+  "m6.a3": {
+    "ar": "درّب من يرد أولاً، وقِس وقت أول رد.",
+    "en": "Train the first responder; measure the first reply."
+  },
+  "m7.t": {
+    "ar": "اتخاذ القرار",
+    "en": "Decision-making"
+  },
+  "m7.a1": {
+    "ar": "موازنة بين المخاطرة والمال والثقة، وغالباً مع شخص آخر.",
+    "en": "Weighing risk, money and trust, often with someone else."
+  },
+  "m7.a2": {
+    "ar": "التردد هنا إشارة، وليس مجرد تأخير.",
+    "en": "Hesitation here is a signal, not a delay."
+  },
+  "m7.a3": {
+    "ar": "أزل مخاطرة واحدة: ضمان، أو تجربة، أو خطوة واضحة.",
+    "en": "Remove one risk: a guarantee, a trial, a clear next step."
+  },
+  "m8.t": {
+    "ar": "الشراء أو الحجز",
+    "en": "Purchase or booking"
+  },
+  "m8.a1": {
+    "ar": "الدفع، الحجز، التوقيع، التأكيد.",
+    "en": "Paying, booking, signing, confirming."
+  },
+  "m8.a2": {
+    "ar": "أي عقبة عند الدفع تهدم شهوراً من التسويق.",
+    "en": "Friction at the till undoes months of marketing."
+  },
+  "m8.a3": {
+    "ar": "خانات أقل، مفاجآت أقل، وطريقة دفع واحدة تشتغل.",
+    "en": "Fewer fields, fewer surprises, one way to pay that works."
+  },
+  "m9.t": {
+    "ar": "التأكيد والتوقعات",
+    "en": "Confirmation and expectations"
+  },
+  "m9.a1": {
+    "ar": "هل تم الطلب؟ وماذا يحصل الآن؟",
+    "en": "Did it go through? What happens now?"
+  },
+  "m9.a2": {
+    "ar": "الصمت بعد الشراء يبدو كأنه شك.",
+    "en": "Silence after a purchase reads as doubt."
+  },
+  "m9.a3": {
+    "ar": "أكّد بسرعة، واكتب ما يتوقعه الزبون.",
+    "en": "Confirm fast and set expectations in writing."
+  },
+  "m10.t": {
+    "ar": "الاستعداد للتجربة",
+    "en": "Preparing for the experience"
+  },
+  "m10.a1": {
+    "ar": "الانتظار، التخطيط، إخبار الآخرين.",
+    "en": "Waiting, planning, telling others."
+  },
+  "m10.a2": {
+    "ar": "الترقّب جزء من المنتج.",
+    "en": "Anticipation is part of the product."
+  },
+  "m10.a3": {
+    "ar": "استفد من الانتظار: اتجاهات، تذكير، وسبب للحماس.",
+    "en": "Use the wait: directions, reminders, a reason to look forward."
+  },
+  "m11.t": {
+    "ar": "التجربة نفسها",
+    "en": "The physical experience"
+  },
+  "m11.a1": {
+    "ar": "المكان، الناس، والمنتج في اليد.",
+    "en": "The place, the people, the product in hand."
+  },
+  "m11.a2": {
+    "ar": "كل ما وعدت به يُختبر هنا.",
+    "en": "Everything promised is tested here."
+  },
+  "m11.a3": {
+    "ar": "العمليات والتسويق يجب أن يقرآ نفس الخطة.",
+    "en": "Operations and marketing must have read the same brief."
+  },
+  "m12.t": {
+    "ar": "اللحظة الفارقة",
+    "en": "The defining moment"
+  },
+  "m12.a1": {
+    "ar": "الشيء الوحيد الذي سيحكي عنه الزبون.",
+    "en": "The one thing the customer will tell the story about."
+  },
+  "m12.a2": {
+    "ar": "الذاكرة تحتفظ بلحظة واحدة، لا بالمعدل.",
+    "en": "Memory keeps one moment, not the average."
+  },
+  "m12.a3": {
+    "ar": "قرر ما هي هذه اللحظة وصمّمها عن قصد.",
+    "en": "Decide what that moment is and design it on purpose."
+  },
+  "m13.t": {
+    "ar": "المشكلة والحل",
+    "en": "Problems and recovery"
+  },
+  "m13.a1": {
+    "ar": "شيء يخرب، وعلى أحد أن يصلحه.",
+    "en": "Something goes wrong; someone has to fix it."
+  },
+  "m13.a2": {
+    "ar": "الحل الجيد يكسب ولاءً أكثر من غياب المشكلة.",
+    "en": "A good recovery earns more loyalty than no problem at all."
+  },
+  "m13.a3": {
+    "ar": "أعطِ الموظف في الواجهة صلاحية الحل فوراً.",
+    "en": "Give front-line staff the authority to fix things now."
+  },
+  "m14.t": {
+    "ar": "ما بعد التجربة",
+    "en": "After the experience"
+  },
+  "m14.a1": {
+    "ar": "الفاتورة، المتابعة، والشعور بعد يوم.",
+    "en": "The bill, the follow-up, the feeling a day later."
+  },
+  "m14.a2": {
+    "ar": "هنا يُحسم الشراء التالي.",
+    "en": "This is where the next purchase is decided."
+  },
+  "m14.a3": {
+    "ar": "اسأل سؤالاً واحداً، واعمل بالجواب، وقل شكراً.",
+    "en": "Ask one question, act on the answer, say thank you."
+  },
+  "m15.t": {
+    "ar": "الولاء أو التوصية أو الرحيل",
+    "en": "Loyalty, advocacy or departure"
+  },
+  "m15.a1": {
+    "ar": "يرجع، أو يوصي بك، أو يرحل بصمت.",
+    "en": "Come back, recommend, or quietly leave."
+  },
+  "m15.a2": {
+    "ar": "النمو الذي يتراكم يعيش في نهاية القصة.",
+    "en": "Growth that compounds lives at this end of the story."
+  },
+  "m15.a3": {
+    "ar": "اجعل التوصية سهلة والرجوع مجزياً.",
+    "en": "Make recommending easy and returning rewarding."
+  },
+  "foot.title": {
+    "ar": "ابدأ أيامك التسعين.",
+    "en": "Start your 90 days."
+  },
+  "foot.tag": {
+    "ar": "من الفكرة إلى الأثر.",
+    "en": "Ideas Into Impact."
+  },
+  "foot.office": {
+    "ar": "المكتب",
+    "en": "Office"
+  },
+  "foot.city": {
+    "ar": "بغداد، العراق",
+    "en": "Baghdad, Iraq"
+  },
+  "foot.scope": {
+    "ar": "للشركات والأفراد، في العراق والمنطقة",
+    "en": "B2B and B2C, across the region"
+  },
+  "foot.elsewhere": {
+    "ar": "تابعنا",
+    "en": "Elsewhere"
+  },
+  "svc1.b1": {
+    "ar": "أغلب الشركات تدفع على التسويق وتنتظر. يصل الاهتمام، ثم يضيع في مكان ما بين أول رسالة وأول طلب، ولا أحد يعرف أين.",
+    "en": "Most businesses pay for marketing and wait. The attention arrives, then evaporates somewhere between the first message and the first order, and nobody can say where."
+  },
+  "svc1.b2": {
+    "ar": "نحن نتولى الطريق كله إلى الزبون، للشركات والأفراد: من أول مرة يسمع فيها عنك حتى طلبه الثاني. فريقنا من خبراء التسويق وتطوير الأعمال يعمل مع فريقك من اليوم الأول، فيكبر الطلب وتكبر قدرتك على تلبيته معاً.",
+    "en": "We own the whole path to the customer, B2B and B2C: from the first brand exposure to the second purchase. Business development specialists and marketeers work as one team beside yours from day one, so demand and the capacity to serve it grow together."
+  },
+  "svc1.b3": {
+    "ar": "ما تراه أنت: زبائن جدد كل شهر، نسبة رجوع أعلى، وتكلفة أقل لكل زبون، في تقرير أسبوعي مقابل الهدف الذي اتفقنا عليه قبل أن نبدأ.",
+    "en": "What you see: new customers every month, a repeat rate that climbs, and a cost per customer that falls, in a weekly report against the target we agreed before we started."
+  },
+  "svc1.e1l": {
+    "ar": "بحلول اليوم 30",
+    "en": "By day 30"
+  },
+  "svc1.e1v": {
+    "ar": "كل القنوات تعمل بخطة واحدة ورقم واحد",
+    "en": "Every channel running under one plan and one number"
+  },
+  "svc1.e2l": {
+    "ar": "بحلول اليوم 60",
+    "en": "By day 60"
+  },
+  "svc1.e2v": {
+    "ar": "الطلبات المتكررة ارتفعت بشكل واضح",
+    "en": "Repeat orders measurably up"
+  },
+  "svc1.e3l": {
+    "ar": "بحلول اليوم 90",
+    "en": "By day 90"
+  },
+  "svc1.e3v": {
+    "ar": "تكلفة الزبون الجديد أقل، والهدف تحقق",
+    "en": "A lower cost per new customer, and the agreed target met"
+  },
+  "svc1.e4l": {
+    "ar": "بعدها",
+    "en": "Then"
+  },
+  "svc1.e4v": {
+    "ar": "نظام يشتغل معنا أو من دوننا",
+    "en": "A system that runs with us or without us"
+  },
+  "svc2.b1": {
+    "ar": "الخطط تفشل عادة لسبب واحد: لا أحد وقّع على رقم. تمر الأشهر، ويقال إن الأمور ماشية، ولا شيء يمكن مقارنته بشيء.",
+    "en": "Plans usually fail for one reason: nobody signed a number. Months pass, momentum is reported as good, and nothing can be compared with anything."
+  },
+  "svc2.b2": {
+    "ar": "نبدأ برقم. قبل اليوم الأول نتفق على معنى النمو لعملك في هذا الربع وكيف نقيسه. ثم نقسم العمل بوضوح: فريقك يبني ما تبيعه، ونحن نوصله إلى السوق ونبني شبكة الشركاء التي تجلب عملاً جديداً.",
+    "en": "We start with a number. Before day one we agree what growth means for your business this quarter and how it is measured. Then the work splits cleanly: your team builds what you sell; we take it to market and build the network of partners that brings new business."
+  },
+  "svc2.b3": {
+    "ar": "في اليوم 90 نراجع ذلك الرقم. إما أنه تحقق، أو تعرف بالضبط لماذا لم يتحقق. وكلاهما أفضل من ربع آخر يمر بلا نتيجة.",
+    "en": "Day 90 is a review against that number. Either it is met, or you know exactly why not. Both beat another quarter of momentum."
+  },
+  "svc2.e1l": {
+    "ar": "قبل اليوم 1",
+    "en": "Before day 1"
+  },
+  "svc2.e1v": {
+    "ar": "رقم متفق عليه ومكتوب لهذا الربع",
+    "en": "An agreed, written number for this quarter"
+  },
+  "svc2.e2l": {
+    "ar": "كل أسبوع",
+    "en": "Every week"
+  },
+  "svc2.e2v": {
+    "ar": "قرار واحد يُتخذ، لا اجتماع يُؤجَّل",
+    "en": "One decision taken, not one meeting postponed"
+  },
+  "svc2.e3l": {
+    "ar": "بحلول اليوم 90",
+    "en": "By day 90"
+  },
+  "svc2.e3v": {
+    "ar": "الهدف تحقق، وشركاء جدد يجلبون عملاً",
+    "en": "The target met, and new partners bringing business"
+  },
+  "svc2.e4l": {
+    "ar": "بعدها",
+    "en": "Then"
+  },
+  "svc2.e4v": {
+    "ar": "الربع الجديد يبدأ من رقم أعلى",
+    "en": "The next quarter starts from a higher number"
+  },
+  "svc3.b1": {
+    "ar": "النمو الذي يعتمد على فريق من الخارج يتوقف يوم يغادر. والتدريب الذي يحصل في قاعة فندق يُنسى بعد أيام.",
+    "en": "Growth that depends on an outside team stops the day it leaves. Training that happens in a hotel conference room is forgotten by the following Tuesday."
+  },
+  "svc3.b2": {
+    "ar": "تدريبنا يحصل داخل حساباتكم وقنواتكم ومحادثاتكم مع الزبائن، ومبني على اللحظات الخمس عشرة في رحلة زبونكم، فيقرأ البيع والخدمة والتسويق من نفس الصفحة. الناس ينجحون بالعمل نفسه، لا بحفظ التعريفات.",
+    "en": "Ours happens inside your own accounts, channels and customer conversations, built around the fifteen moments of your customer story, so sales, service and marketing read from the same page. People pass by doing the work, not by remembering definitions."
+  },
+  "svc3.b3": {
+    "ar": "ما تراه أنت: صفقات أكثر تُغلق، شكاوى أقل تصلك، وفريق لم يعد ينتظر وكالة لتخبره كيف تسير الأمور.",
+    "en": "What you see: more deals closed, fewer complaints reaching your desk, and a team that no longer waits for an agency to tell it how things are going."
+  },
+  "svc3.e1l": {
+    "ar": "بحلول الأسبوع 2",
+    "en": "By week 2"
+  },
+  "svc3.e1v": {
+    "ar": "الكل يعمل على حسابات وزبائن حقيقيين",
+    "en": "Everyone working on live accounts and real customers"
+  },
+  "svc3.e2l": {
+    "ar": "بحلول الأسبوع 6",
+    "en": "By week 6"
+  },
+  "svc3.e2v": {
+    "ar": "امتحان عملي: حملة تُطلق وتُقرأ، وصفقة تُغلق",
+    "en": "A practical exam: a campaign launched and read, a deal closed"
+  },
+  "svc3.e3l": {
+    "ar": "بحلول اليوم 90",
+    "en": "By day 90"
+  },
+  "svc3.e3v": {
+    "ar": "أدلة عمل تملكها شركتك",
+    "en": "Playbooks your organisation owns"
+  },
+  "svc3.e4l": {
+    "ar": "بعدها",
+    "en": "Then"
+  },
+  "svc3.e4v": {
+    "ar": "المعرفة تبقى حتى لو انتقل من تعلّمها",
+    "en": "The knowledge stays even when the people who learned it move on"
+  },
+  "svcpage.includes": {
+    "ar": "ماذا يتغيّر",
+    "en": "What changes"
+  },
+  "svcpage.how": {
+    "ar": "ماذا يكون عندك بحلول اليوم 90",
+    "en": "What you have by day 90"
+  },
+  "svcpage.of": {
+    "ar": "من",
+    "en": "of"
+  },
+  "contact.title": {
+    "ar": "ابدأ أيامك التسعين.",
+    "en": "Start your 90 days."
+  },
+  "contact.lede": {
+    "ar": "أخبرنا ماذا تريد أن يزيد عندك في الربع الجاي: زبائن، طلبات، أو هامش ربح. وما الذي كان يعيقك. نرد خلال يومي عمل برأي وخطوة أولى.",
+    "en": "Tell us what you want more of by next quarter: customers, orders, margin. And what has been getting in the way. We reply within two working days with a view and a first step."
+  },
+  "contact.name": {
+    "ar": "اسمك",
+    "en": "Your name"
+  },
+  "contact.company": {
+    "ar": "الشركة",
+    "en": "Company"
+  },
+  "contact.email": {
+    "ar": "البريد الإلكتروني",
+    "en": "Email"
+  },
+  "contact.message": {
+    "ar": "ماذا تريد أن يزيد عندك في الربع الجاي؟",
+    "en": "What do you want more of by next quarter?"
+  },
+  "contact.send": {
+    "ar": "أرسل",
+    "en": "Send message"
+  },
+  "contact.sending": {
+    "ar": "جارٍ الإرسال",
+    "en": "Sending"
+  },
+  "contact.sent": {
+    "ar": "وصلتنا. نرد خلال يومي عمل.",
+    "en": "Sent. We reply within two working days."
+  },
+  "contact.error": {
+    "ar": "ما قدرنا نوصل لخادمنا، ففتحنا لك تطبيق البريد بدلاً عنه.",
+    "en": "The form could not reach our server, so we opened your email app instead."
+  },
+  "contact.phone": {
+    "ar": "الهاتف",
+    "en": "Phone"
+  },
+  "contact.hours": {
+    "ar": "أوقات العمل",
+    "en": "Hours"
+  },
+  "contact.hoursv": {
+    "ar": "الأحد إلى الخميس، 9 صباحاً إلى 6 مساءً (توقيت بغداد)",
+    "en": "Sunday to Thursday, 9:00 to 18:00 (GMT+3)"
+  },
+  "nf.title": {
+    "ar": "هذه الصفحة غير موجودة.",
+    "en": "This page is not on the grid."
+  },
+  "nf.lede": {
+    "ar": "ربما الرابط قديم، أو الصفحة انتقلت.",
+    "en": "The link may be old, or the page may have moved."
+  },
+  "nf.home": {
+    "ar": "إلى الصفحة الرئيسية",
+    "en": "Go to the homepage"
+  },
+  "xray.svc.1": {
+    "ar": "الإشارة: 24 عموداً، منحنى غاوسي، الانتشار من 20 إلى 90px يتبع المؤشر",
+    "en": "signal: 24 bars, a gaussian response, spread 20 to 90px follows the pointer"
+  },
+  "xray.svc.2": {
+    "ar": "المسار: شبكة 8×8، طريق مانهاتن يُعاد تخطيطه نحو أقرب عقدة",
+    "en": "route: 8×8 nodes, a Manhattan path re-planned to the nearest node"
+  },
+  "xray.svc.3": {
+    "ar": "الحلقات: 6 مستويات × 22px، الزاوية تحدد التقدم داخل المستوى",
+    "en": "rings: 6 levels × 22px, the angle sets progress within a level"
+  },
+  "xray.svc.4": {
+    "ar": "كل لوحة: رقم، عنوان، شكل واحد، وزر يكشف التفاصيل",
+    "en": "each panel: a number, a title, one visual object, one reveal"
+  },
+  "xray.hint.svc": {
+    "ar": "أشعة · الخدمات / 02",
+    "en": "x-ray · services / 02"
+  },
+  "xray.con.1": {
+    "ar": "التقدم p = موضع التمرير ÷ (ارتفاع القسم − ارتفاع الشاشة)",
+    "en": "progress p = scroll ÷ (section height − viewport height)"
+  },
+  "xray.con.2": {
+    "ar": "المرحلة k تشغل p ∈ [k/8, (k+1)/8]. تركيب واحد يتحوّل، لا نصوص تتبدّل",
+    "en": "stage k lives in p ∈ [k/8, (k+1)/8]. One composition transforms, no text swaps"
+  },
+  "xray.con.3": {
+    "ar": "ثابت لا مقفل: التمرير دائماً بيدك",
+    "en": "sticky, not pinned: scrolling is never hijacked"
+  },
+  "xray.hint.con": {
+    "ar": "أشعة · البناء / 03",
+    "en": "x-ray · construction / 03"
+  },
+  "xray.story.1": {
+    "ar": "15 لحظة · 5 أعمدة · خط شعرة 1px",
+    "en": "15 moments · 5 columns · 1px hairline"
+  },
+  "xray.story.2": {
+    "ar": "اللحظة 12 مميّزة: هي التي يحكيها الزبون",
+    "en": "moment 12 is marked: the one the customer tells"
+  },
+  "xray.story.3": {
+    "ar": "نفس الأسئلة الثلاثة لكل لحظة. الأجوبة تتغيّر، والأسئلة لا",
+    "en": "the same three questions for every moment. Answers change, questions don't"
+  },
+  "xray.hint.story": {
+    "ar": "أشعة · القصة / 04",
+    "en": "x-ray · story / 04"
+  },
+  "cta.book": {
+    "ar": "احجز مكالمة",
+    "en": "Book a call"
+  },
+  "cta.book.sub": {
+    "ar": "ثلاثون دقيقة، بلا التزام. نأتي برأي، وتخرج بخطوة أولى.",
+    "en": "Thirty minutes, no commitment. We bring a view; you leave with a first step."
+  },
+  "cta.book.aria": {
+    "ar": "احجز مكالمة مع أوبا على واتساب",
+    "en": "Book a call with Oppa on WhatsApp"
+  },
+  "nav.partners": {
+    "ar": "شركاؤنا",
+    "en": "Partnerships"
+  },
+  "partners.title": {
+    "ar": "شراكات النمو",
+    "en": "Growth partnerships"
+  },
+  "partners.sub": {
+    "ar": "السابقة والحالية",
+    "en": "Past and present"
+  },
+  "partners.lede": {
+    "ar": "شركات غيّرنا معها مسار نموها، ربعاً بعد ربع. أدر العجلة.",
+    "en": "The companies whose growth we have changed, quarter by quarter. Give the wheel a spin."
+  },
+  "partners.aria": {
+    "ar": "عجلة شركاء النمو. اسحبها لتدور، أو استخدم الأسهم.",
+    "en": "Growth partner wheel. Drag to turn it, or use the arrow keys."
+  },
+  "partners.logos": {
+    "ar": "الشعارات",
+    "en": "Logos"
+  },
+  "partners.present": {
+    "ar": "حالية",
+    "en": "Present"
+  },
+  "partners.past": {
+    "ar": "سابقة",
+    "en": "Past"
+  },
+  "nav.portal": {
+    "ar": "بوابة العملاء",
+    "en": "Client portal"
+  },
+  "viz.signal.cap": {
+    "ar": "هذا أنت في السوق. حرّك إصبعك أو المؤشر: الأعمدة ترتفع حيث يراك زبائنك، وتنخفض حيث لا يراك أحد. الرقم تحت الرسم يخبرك كم واحداً منهم يراك، وكم مرة. نحن نرفع الاثنين معاً.",
+    "en": "This is you in the market. Move your finger or cursor: the bars rise where your customers see you and fall where nobody does. The line under it tells you how many of them see you, and how often. We raise both."
+  },
+  "viz.route.cap": {
+    "ar": "هذا طريقك من اليوم (النقطة السوداء) إلى هدفك (النقطة الحمراء). حرّك المؤشر وشاهد الطريق يتغيّر مع كل قرار تتخذه في المنتصف. الرقم تحته يخبرك كم قراراً يفصلك عن الهدف. خطتنا تجعلها أقل، وأوضح.",
+    "en": "This is your road from today (the black dot) to your goal (the red dot). Move your cursor and watch the road change with every decision you make in between. The line under it tells you how many decisions stand between you and the goal. Our plan makes them fewer, and clearer."
+  },
+  "viz.rings.cap": {
+    "ar": "هذا فريقك وهو يتعلّم. كل حلقة مرحلة: الداخلية الأساسيات، والخارجية الإتقان. حرّك المؤشر وشاهد النقطة تنتقل بين المراحل وتتقدم داخل كل واحدة. الرقم تحته يخبرك أين فريقك الآن. تدريبنا يأخذه إلى الحلقة الخارجية.",
+    "en": "This is your team learning. Each ring is a stage: the inner one is the basics, the outer one is mastery. Move your cursor and watch the dot move between stages and progress inside each one. The line under it tells you where your team is now. Our training takes it to the outer ring."
+  },
+  "con.cap": {
+    "ar": "هكذا تتحوّل فكرتك إلى شيء يعمل. مرّر للأسفل: خط واحد يصبح شبكة، ثم تخطيطاً، ثم نصاً ولوناً ومكوّنات، حتى يصبح زراً حقيقياً تستطيع الضغط عليه. مرّر للأعلى وشاهد الخطوات تتفكّك بالترتيب نفسه. هذا هو عملنا معك، خطوة بخطوة.",
+    "en": "This is how your idea becomes something that works. Scroll down: one line becomes a grid, then a layout, then type, colour and components, until it is a real button you can press. Scroll up and watch the steps come apart in the same order. That is our work with you, step by step."
+  },
+  "partners.cap": {
+    "ar": "شركاؤنا في النمو، وقد تكون التالي",
+    "en": "Trusted by these teams. Yours could be next"
+  },
+  "viz.signal.read": {
+    "ar": "{a}% من زبائنك يرونك، {b} مرة لكل واحد",
+    "en": "{a}% of your customers see you, {b} times each"
+  },
+  "viz.route.read": {
+    "ar": "{n} قراراً بين اليوم وهدفك",
+    "en": "{n} decisions between today and your goal"
+  },
+  "viz.rings.read": {
+    "ar": "فريقك في المرحلة {l} من {m}، أنجز {p}% منها",
+    "en": "Your team is at step {l} of {m}, {p}% done"
+  },
+  "svc.kicker": {
+    "ar": "خدماتنا",
+    "en": "Our services"
+  },
+  "con.kicker": {
+    "ar": "كيف نبني",
+    "en": "How we build"
+  },
+  "story.kicker": {
+    "ar": "رحلة زبونك",
+    "en": "Your customer's journey"
+  },
+  "foot.kicker": {
+    "ar": "الخطوة التالية",
+    "en": "Next step"
+  },
+  "svc1.kicker": {
+    "ar": "التسويق",
+    "en": "Marketing"
+  },
+  "svc2.kicker": {
+    "ar": "الاستراتيجية",
+    "en": "Strategy"
+  },
+  "svc3.kicker": {
+    "ar": "التدريب والتطوير",
+    "en": "Training and development"
+  },
+  "pship.kicker": {
+    "ar": "الشراكة",
+    "en": "Partnership"
+  },
+  "pship.title": {
+    "ar": "كيف نعمل مع شركائنا",
+    "en": "How we work with our partners"
+  },
+  "pship.lede": {
+    "ar": "فريق واحد بنصفين. أنت تحتفظ بما لا يستطيع غيرك أن يتولاه، ونحن نأخذ كل ما يجلب الزبائن.",
+    "en": "One team, two halves. You keep what only you can own; we take everything that brings customers."
+  },
+  "pship.plus": {
+    "ar": "معاً",
+    "en": "together"
+  },
+  "pship.result": {
+    "ar": "النتيجة: منتج يتحسّن وزبائن يزيدون، في الوقت نفسه.",
+    "en": "The result: a product that keeps improving and customers who keep coming, at the same time."
+  },
+  "xray.hint.pship": {
+    "ar": "أشعة · الشراكة / 05",
+    "en": "x-ray · partnership / 05"
+  },
+  "xray.pship.1": {
+    "ar": "عمودان متساويان · فاصل 1px",
+    "en": "two equal columns · 1px divider"
+  },
+  "xray.pship.2": {
+    "ar": "العلامة في المنتصف · 44px",
+    "en": "the mark sits on the centre line · 44px"
+  },
+  "n90.kicker": {
+    "ar": "لماذا 90 يوماً؟",
+    "en": "Why 90 days?"
+  },
+  "n90.title": {
+    "ar": "مدة تكفي لإثبات النتيجة، وقصيرة بما يكفي لتغيير الاتجاه",
+    "en": "Long enough to prove it. Short enough to change course"
+  },
+  "n90.lede": {
+    "ar": "بعض شراكاتنا مستمرة منذ عشر سنوات، وبعضها حملة واحدة. وفي الحالتين، يسير العمل في دورات من 90 يوماً.",
+    "en": "Some of our partnerships have run for a decade. Others are a single campaign. Either way, the work moves in 90-day cycles."
+  },
+  "n90.p1.t": {
+    "ar": "البحث",
+    "en": "Research"
+  },
+  "n90.p1.d": {
+    "ar": "الأيام 1 إلى 20",
+    "en": "Days 1 to 20"
+  },
+  "n90.p1.b": {
+    "ar": "نتعرّف على سوقك وزبائنك وأرقامك قبل أن ننفق ديناراً.",
+    "en": "We learn your market, your customers and your numbers before we spend a dinar."
+  },
+  "n90.p2.t": {
+    "ar": "القياس",
+    "en": "Measurement"
+  },
+  "n90.p2.d": {
+    "ar": "الأيام 21 إلى 60",
+    "en": "Days 21 to 60"
+  },
+  "n90.p2.b": {
+    "ar": "كل ما ننفذه يُقاس على الرقم الذي اتفقنا عليه في اليوم الأول.",
+    "en": "Everything we run is measured against the number we agreed on day one."
+  },
+  "n90.p3.t": {
+    "ar": "الاستنتاج",
+    "en": "Insights"
+  },
+  "n90.p3.d": {
+    "ar": "الأيام 61 إلى 80",
+    "en": "Days 61 to 80"
+  },
+  "n90.p3.b": {
+    "ar": "نرى ما نجح وما لم ينجح، ولماذا.",
+    "en": "We see what worked, what did not, and why."
+  },
+  "n90.p4.t": {
+    "ar": "المراجعة والتكرار",
+    "en": "Reflection and iteration"
+  },
+  "n90.p4.d": {
+    "ar": "الأيام 81 إلى 90",
+    "en": "Days 81 to 90"
+  },
+  "n90.p4.b": {
+    "ar": "نجلس معاً، نحتفظ بما ينجح، ونخطط للتسعين يوماً التالية.",
+    "en": "We sit down together, keep what works, and plan the next 90 days."
+  },
+  "n90.close": {
+    "ar": "ثلاثة أشهر تكفي لبحث حقيقي وقياس حقيقي ومراجعة صادقة، وقصيرة بما يكفي كي لا يضيع شيء. كل دورة تبدأ أذكى من التي قبلها.",
+    "en": "Three months is long enough for real research, real measurement and honest reflection, and short enough that nothing drifts. Each cycle starts smarter than the last."
+  },
+  "n90.cap": {
+    "ar": "هذه أيامك التسعون. الخط يمتلئ وأنت تمرّر، وكل دورة معنا تمر بهذه المراحل الأربع.",
+    "en": "This is your 90 days. The line fills as you scroll, and every cycle with us passes through these four stages."
+  },
+  "n90.aria": {
+    "ar": "خط زمني من 90 يوماً بأربع مراحل",
+    "en": "A 90-day timeline in four stages"
+  },
+  "xray.hint.n90": {
+    "ar": "أشعة · 90 يوماً / 02",
+    "en": "x-ray · 90 days / 02"
+  },
+  "xray.n90.1": {
+    "ar": "4 مراحل · 4 أعمدة متساوية",
+    "en": "4 stages · 4 equal columns"
+  },
+  "xray.n90.2": {
+    "ar": "الخط يمتلئ مع التمرير · 2px",
+    "en": "the line fills with the scroll · 2px"
+  },
+  "hero.eyebrow": {
+    "ar": "شريكك بالنمو",
+    "en": "Your growth partner"
+  },
+  "hero.l2a": {
+    "ar": "شغل يجيب",
+    "en": "Work that gets"
+  },
+  "hero.l2hl": {
+    "ar": "نتيجة.",
+    "en": "results."
+  },
+  "cta.work": {
+    "ar": "شوف شغلنا",
+    "en": "See our work"
+  },
+  "cta.work.aria": {
+    "ar": "انتقل إلى خدماتنا",
+    "en": "Go to our services"
+  },
+  "path.idea": {
+    "ar": "فكرة",
+    "en": "Idea"
+  },
+  "path.exec": {
+    "ar": "تنفيذ",
+    "en": "Execution"
+  },
+  "path.impact": {
+    "ar": "أثر",
+    "en": "Impact"
+  },
+  "path.aria": {
+    "ar": "الدائرة الحمراء تنتقل من الفكرة إلى التنفيذ إلى الأثر وتكبر في الطريق. حرّك إصبعك عليها لتحركها بنفسك.",
+    "en": "The red circle travels from idea to execution to impact, growing on the way. Move your finger over it to move it yourself."
+  },
+  "foot.wa": {
+    "ar": "راسلنا على واتساب",
+    "en": "Message us on WhatsApp"
+  }
+}

@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@import "../styles/site.css";
+
+/* Tailwind v4 theme tokens, mapped to the shared CSS variables so utilities
+   (bg-paper, text-red, border-hair, font-sans) and the hand-written styles agree. */
+@theme {
+  --color-paper: #f7f7f4;
+  --color-ink: #171717;
+  --color-red: #d83228;
+  --color-hair: rgba(23, 23, 23, 0.16);
+  --color-mute: rgba(23, 23, 23, 0.62);
+  --font-sans: var(--font-archivo), "Helvetica Neue", Arial, sans-serif;
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  --font: var(--font-archivo), "Helvetica Neue", Arial, sans-serif;
+  --font-ar: var(--font-plex-arabic), "Segoe UI", Tahoma, sans-serif;
+}
